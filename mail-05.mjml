@@ -51,7 +51,7 @@
         </mj-section>
         <!--title-->
         <mj-section padding="0 0">
-		<mj-group>
+			<	mj-group>
 			<mj-column width="65%" padding="0 0" background-color="#0098ca" >		
 					<mj-hero
 						mode="fluid-height"
@@ -60,22 +60,21 @@
 						vertical-align="middle"
 						background-width="195px"
 						background-height="34px"
-						background-url="./images/mail-02/mail_title.jpg"
+						background-url="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_round_title.jpg"
 						padding="0px 0px">
 						<mj-text
 							padding="0"
 							color="#ffffff"
 							font-family="Foco"
 							align="center"
-							font-size="25px"
+							font-size="37px"
 							line-height="45px"
 							font-weight="900">
-							¡HOLA EDINSON!
+							¡Hola Edinson!
 						</mj-text>
 						
 						</mj-hero>
-						</mj-body>
-			</mj-column>
+			</mj-column>				
 			<mj-column width="35%" padding="0 0" border-top="5px #0098ca solid">
 				<mj-text>&nbsp;</mj-text>
 			</mj-column>
@@ -86,23 +85,45 @@
 			<mj-column padding="0 0">
 				<mj-text font-style="normal"
                     font-weight="normal"
-                    font-size="15px"
-                    line-height="17px"
+                    font-size="19px"
+                    line-height="25px"
                     color="#404040"
-                    font-family="Helvetica">
-					A partir de ahora formas parte del piloto <strong>Reconocerte</strong> y podras hacer uso de los beneficios y promocioned que tenemos expecialmente para tí</mj-text>
+                    font-family="Foco">
+					A partir de ahora formas parte del piloto <strong>Reconocerte</strong> y podrás hacer uso de los beneficios y promociones que tenemos especialmente para tí.</mj-text>
 			</mj-column>
 		</mj-section>
         <!--content 2-->
         <mj-section padding="0" background-color="#FFF">
-			<mj-column padding="0 0" width="100%">
+			<mj-column padding="0 0" width="40%">
 				<mj-image
 					padding="0 0"
-					src="./images/mail-02/mail_steps.jpg"
+                  padding-left="10px"
+					src="./images/mobile.gif"
 					align="center"
 					alt=""
 				/>
-			</mj-column>
-		</mj-section>	
+			</mj-column>	
+       <mj-column padding="0 0" width="60%">
+				<mj-text font-size="40px" color="#0098ca" font-weight="bold">Pasos</mj-text>
+        <mj-table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="font-size:45px;font-weight:bold;color:#0098ca;padding-right: 20px">1</td>
+            <td style="font-size:19px;line-height:25px">Ingresa al programa de reconocimiento mediante la web o aplicativo.</td>
+          </tr>
+          <tr><td colspan="2" style="padding-top:20px"></td></tr>
+          <tr>
+             <td style="font-size:45px;font-weight:bold;color:#0098ca;padding-right: 20px">2</td>
+            <td  style="font-size:19px;line-height:25px">Explora las opciones y encuentra el beneficio que más te interese.</td>
+          </tr>
+          <tr><td colspan="2" style="padding-top:20px"></td></tr>
+          <tr>
+            <td style="font-size:45px;font-weight:bold;color:#0098ca;padding-right: 20px">3</td>
+            <td style="font-size:19px;line-height:25px">Acércate al establecimiento que elegiste con tu DNI.</td>
+          </tr>
+          <tr><td colspan="2" style="padding-top:40px;font-size:24px;font-weight:bold;color:#0098ca;text-align: center;">¡Disfruta tus beneficios!</td></tr>
+         </mj-table>
+			</mj-column>	
+		</mj-section>
+    
     </mj-body>
 </mjml>
