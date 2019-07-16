@@ -66,10 +66,10 @@
             <mj-column padding="0 0">
             <mj-table padding="0 0" container-background-color="#0098ca">
                 <tr>
-                    <th height="25px"></th>
-                    <th style="padding:0 0;" height="40px" width="38px" background="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_title-right.jpg">
+                    <td height="25px">&nbsp;</td>
+                    <td style="padding:0 0;background: url(https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_title-right.jpg) no-repeat" height="40px" width="38px">
 
-                    </th>
+                    </td>
                 </tr>
             </mj-table>
             </mj-column>
@@ -79,7 +79,7 @@
                 <mj-table padding="0 0" cellpadding="0" cellspacing="0" width="100%" >
                     <tr>
                         <td width="18px" background="#0098ca" style="background-color:#0098ca;padding:0">
-                        
+                        &nbsp;
                         </td>
                         <td>
                             <img
@@ -129,7 +129,7 @@
                 <mj-column padding="0 0" width="40%" padding-top="10px">
                     <mj-image
                         padding="0 0"
-                        src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images//mail_cel.jpg"
+                        src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_cel.jpg"
                         fluid-on-mobile="true"
                         align="center"
                         padding-right="10px"
@@ -145,7 +145,7 @@
                 <mj-button
                     inner-padding="15px 40px 15px 40px"
                     padding-bottom="20px"
-                    href="https://google.com"
+                    href="https://www.pacifico.com.pe/re-conocerte"
                     font-size="18px"
                     font-weight="bold"
                     background-color="#01af40"

@@ -15,7 +15,7 @@
                 	align="left"
                     padding="0 0"
                     padding-left="20px"
-                    src="images/mail_logo.jpg"
+                    src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_logo.jpg"
                     alt=""
                     width="120px" />
             </mj-column>
@@ -29,7 +29,7 @@
 							height="588px"
 							background-width="324px"
 							background-height="588px"
-							background-url="./images/ios/ios_cel.jpg"
+							background-url="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/ios_cel.jpg"
 							background-color="#2a3448"
 							padding="0 0"
 							>
@@ -51,7 +51,7 @@
 							height="124px"
 							background-width="426px"
 							background-height="124px"
-							background-url="./images/ios/ios_top.jpg"
+							background-url="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/ios_top.jpg"
 							background-color="#2a3448"
 							padding="0 0"
 							>
@@ -105,7 +105,7 @@
 							height="120px"
 							background-width="426px"
 							background-height="120px"
-							background-url="./images/ios/ios_footer.jpg"
+							background-url="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/ios_footer.jpg"
 							background-color="#2a3448"
 							padding="0 0"
 							>
