@@ -57,7 +57,7 @@
         background-color="#0098ca"
         >
             <mj-column width="100%" padding="0 0">
-                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Arial">
+                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Foco">
                   ¡Queremos agradecerte por ser parte de nosotros  <b>un año más! </b>
                 </mj-text>
             </mj-column>
@@ -101,7 +101,7 @@
                     font-size="35px"
                     line-height="28px"
                     color="#0097CB"
-                    font-family="Arial"
+                    font-family="Foco"
                     >
                     ¡Hola Natalia!
                     </mj-text>
