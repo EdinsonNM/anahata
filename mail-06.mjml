@@ -1,0 +1,119 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+    </mj-head>
+    <mj-body background-color="#FFFFFF">
+        <!--header-->
+        <mj-section
+        text-align="left"
+        padding="0 0"
+        background-color="#0098ca"
+        >
+		
+            <mj-column width="100%" padding="0 0">
+                <mj-image
+                	align="left"
+                    padding="0 0"
+                    padding-left="20px"
+                    src="images/mail_logo.jpg"
+                    alt=""
+                    width="120px" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0 0">
+		<mj-group>
+			<mj-column width="40%" padding="0 0">
+				<mj-body>
+							<mj-hero
+							mode="fluid-height"
+							height="588px"
+							background-width="324px"
+							background-height="588px"
+							background-url="./images/ios/ios_cel.jpg"
+							background-color="#2a3448"
+							padding="0 0"
+							>
+							
+							
+							</mj-hero>
+						</mj-body>
+			</mj-column>
+			<mj-column width="60%"  padding="0 0">
+					<!--<mj-image
+				 		padding="0 0"
+						src="./images/ios/ios_top.jpg"
+						align="left"
+						width="426px"
+						height="124px" />-->
+						<mj-body padding="0 0">
+							<mj-hero
+							mode="fluid-height"
+							height="124px"
+							background-width="426px"
+							background-height="124px"
+							background-url="./images/ios/ios_top.jpg"
+							background-color="#2a3448"
+							padding="0 0"
+							>
+							<mj-text
+								padding="0 0"
+								padding-top="55px"
+								color="#ffffff"
+								font-family="Helvetica"
+								align="center"
+								font-size="25px"
+								>
+								¡HOLA EDINSON!
+							</mj-text>
+							
+							</mj-hero>
+						</mj-body>
+						
+						<mj-body>
+							<mj-hero
+							mode="fluid-height"
+							height="275px"
+							background-width="426px"
+							background-height="275px"
+							background-color="#FFFFFF"
+							padding="0 0"
+							>
+								<mj-text
+									font-style="normal"
+									font-weight="bold"
+									font-size="16px"
+									line-height="18px"
+									color="#0098ca">
+									Ahora también te reconocemos por iOS
+									</mj-text>
+									<mj-text
+									font-family="Helvetica"
+									font-style="normal"
+									font-weight="normal"
+									font-size="11px"
+									line-height="13px"
+									color="#4A4A4A"
+
+									>
+									¡Ya puedes descargar el programa Re-conocerte desde el App Store!
+									</mj-text>
+							</mj-hero>
+						</mj-body>
+						<mj-body>
+							<mj-hero
+							mode="fluid-height"
+							height="120px"
+							background-width="426px"
+							background-height="120px"
+							background-url="./images/ios/ios_footer.jpg"
+							background-color="#2a3448"
+							padding="0 0"
+							>
+							
+							</mj-hero>
+						</mj-body>
+			</mj-column>
+			</mj-group>
+		</mj-section>
+    </mj-body>
+</mjml>
