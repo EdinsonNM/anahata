@@ -57,8 +57,8 @@
         background-color="#0098ca"
         >
             <mj-column width="100%" padding="0 0">
-                <mj-text height="65px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Foco">
-                    ¡Tenemos un premio para ti por cumplir <b>xx años</b> con nosotros!
+                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Foco">
+                  ¡Queremos felicitarte por cuidar muy bien <b> de tu salud!</b>
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -103,7 +103,7 @@
                     color="#0097CB"
                     font-family="Foco"
                     >
-                    Hola Natalia!
+                    ¡Hola Natalia!
                     </mj-text>
                     <mj-text
                     font-style="normal"
