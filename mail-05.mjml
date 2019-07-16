@@ -1,6 +1,10 @@
 <mjml>
     <mj-head>
         <mj-title></mj-title>
+      <mj-font name="Foco" href="https://fonts.googleapis.com/css?family=Raleway" />
+      <mj-style>
+      
+      </mj-style>
 			<mj-style inline="inline">
 				@font-face {
 					font-family: 'Foco';
@@ -49,6 +53,11 @@
         >
 
         </mj-section>
+      <mj-section padding="0 0">
+        <mj-column padding="0 0" width="100%" padding-top="5px" background-color="#0098ca">
+          
+        </mj-column>
+      </mj-section>
         <!--title-->
         <mj-section padding="0 0">
 			<	mj-group>
@@ -75,7 +84,7 @@
 						
 						</mj-hero>
 			</mj-column>				
-			<mj-column width="35%" padding="0 0" border-top="5px #0098ca solid">
+			<mj-column width="35%" padding="0 0">
 				<mj-text>&nbsp;</mj-text>
 			</mj-column>
 			</mj-group>
@@ -98,7 +107,7 @@
 				<mj-image
 					padding="0 0"
                   padding-left="10px"
-					src="./images/mobile.gif"
+					src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mobile.gif"
 					align="center"
 					alt=""
 				/>

@@ -92,10 +92,9 @@
             </mj-column>
         </mj-section>
         <!--content-->
-        <mj-section padding="0 0" border-left="18px #0098ca solid">
-            <mj-group>
-                <mj-column padding="0 0" width="60%">
-                    <mj-text
+      <mj-section padding="0 0" border-left="18px #0098ca solid">
+        <mj-column padding="0 0" width="100%">
+           <mj-text
                     font-style="normal"
                     font-weight="bold"
                     font-size="38px"
@@ -105,6 +104,12 @@
                     >
                     ¡Hola Natalia!
                     </mj-text>
+        </mj-column>
+      </mj-section>
+        <mj-section padding="0 0" border-left="18px #0098ca solid">
+            <mj-group>
+                <mj-column padding="0 0" width="100%">
+                   
                     <mj-text
                     font-style="normal"
                     font-weight="normal"
@@ -126,17 +131,7 @@
                         </p>
                     </mj-text>
                 </mj-column>
-                <mj-column padding="0 0" width="40%" padding-top="10px">
-                    <mj-image
-                        padding="0 0"
-                        src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_cel.jpg"
-                        fluid-on-mobile="true"
-                        align="center"
-                        padding-right="10px"
-                        width="155px"
-                        height="325px"
-                    />
-                </mj-column>
+               
             </mj-group>
         </mj-section>
 

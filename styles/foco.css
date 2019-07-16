@@ -1,0 +1,13 @@
+/* latin-ext */
+@font-face {
+	font-family: 'Foco';
+	font-display: block;
+		src: url('https://github.com/EdinsonNM/anahata/blob/master/fonts/foco_std_bd-webfont.eot?');
+		src: url('https://github.com/EdinsonNM/anahata/blob/master/fonts/foco_std_bd-webfont.eot?putcap#iefix')
+				format('embedded-opentype'),
+			url('https://github.com/EdinsonNM/anahata/blob/master/fonts/foco_std_bd-webfont.ttf?putcap') format('truetype'),
+			url('https://github.com/EdinsonNM/anahata/blob/master/fonts/foco_std_bd-webfont.woff?putcap') format('woff'),
+			url('https://github.com/EdinsonNM/anahata/blob/master/fonts/foco_std_bd-webfont.svg?putcap#alimenta') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
