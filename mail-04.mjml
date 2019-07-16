@@ -57,8 +57,8 @@
         background-color="#0098ca"
         >
             <mj-column width="100%" padding="0 0">
-                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Foco">
-                  ¡Queremos agradecerte por ser parte de nosotros  <b>un año más! </b>b>
+                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Arial">
+                  ¡Queremos agradecerte por ser parte de nosotros  <b>un año más! </b>
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -98,27 +98,28 @@
                     <mj-text
                     font-style="normal"
                     font-weight="bold"
-                    font-size="38px"
+                    font-size="35px"
                     line-height="28px"
                     color="#0097CB"
-                    font-family="Foco"
+                    font-family="Arial"
                     >
                     ¡Hola Natalia!
                     </mj-text>
                     <mj-text
                     font-style="normal"
                     font-weight="normal"
-                    font-size="19px"
+                    font-size="19.5px"
                     line-height="25px"
                     color="#404040"
-                    font-family="Helvetica"
+                    font-family="Arial"
                     >
                         <p>
-                        Tu prevención y cuidado merecen ser reconocidos, por eso queremos premiarte con <b>1000 millas LATAM Pass</b>, para que las uses cuando quieras.
+                        Tu prevención y cuidado merecen ser reconocidos,  por eso queremos premiarte con <b>1000 millas LATAM Pass</b>, para que las uses cuando quieras.
                         </p>
                         <br/>
                         <p>
-                        Activa tus millas entrando al app Re-conocerte.
+                        Activa tus millas entrando al 
+                        APP <b>Re-conocerte.</b>
                         </p>
                         <br/>
                         <p>

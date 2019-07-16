@@ -85,11 +85,11 @@
 			<mj-column padding="0 0">
 				<mj-text font-style="normal"
                     font-weight="normal"
-                    font-size="19px"
+                    font-size="18.5px"
                     line-height="25px"
                     color="#404040"
                     font-family="Foco">
-					A partir de ahora formas parte del piloto <strong>Reconocerte</strong> y podrás hacer uso de los beneficios y promociones que tenemos especialmente para tí.</mj-text>
+					A partir de ahora, formas parte del piloto <strong>Reconocerte</strong> y podrás hacer uso de los beneficios y promociones que tenemos especialmente para tí.</mj-text>
 			</mj-column>
 		</mj-section>
         <!--content 2-->
