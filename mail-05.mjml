@@ -1,0 +1,108 @@
+<mjml>
+    <mj-head>
+        <mj-title></mj-title>
+			<mj-style inline="inline">
+				@font-face {
+					font-family: 'Foco';
+					font-display: block;
+						src: url('../fonts/foco_std_bd-webfont.eot?');
+						src: url('../fonts/foco_std_bd-webfont.eot?putcap#iefix')
+								format('embedded-opentype'),
+							url('../fonts/foco_std_bd-webfont.ttf?putcap') format('truetype'),
+							url('../fonts/foco_std_bd-webfont.woff?putcap') format('woff'),
+							url('../fonts/foco_std_bd-webfont.svg?putcap#alimenta') format('svg');
+						font-weight: normal;
+						font-style: normal;
+					}
+				*, html, body{
+					font-family: Foco;
+					margin:0;
+					padding: 0;
+				}
+			</mj-style>
+    </mj-head>
+    <mj-body background-color="#FFFFFF">
+        <!--header-->
+        <mj-section
+        text-align="left"
+        padding="0 0"
+        background-color="#0098ca"
+        >
+            <mj-column width="100%" padding="0 0">
+                <mj-image
+                align="left"
+                    padding="0 0"
+                    padding-left="20px"
+                    src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/mail_logo.jpg"
+                    alt=""
+                    width="120px" />
+            </mj-column>
+        </mj-section>
+        <!--banner-->
+        <mj-section
+        text-align="left"
+        padding="0 0"
+        padding-top="300px"
+        background-color="#0098ca"
+        background-url="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/banner-05.jpg"
+        background-size="cover"
+        >
+
+        </mj-section>
+        <!--title-->
+        <mj-section padding="0 0">
+		<mj-group>
+			<mj-column width="65%" padding="0 0" background-color="#0098ca" >		
+					<mj-hero
+						mode="fluid-height"
+						background-position="bottom right"
+						height="33px"
+						vertical-align="middle"
+						background-width="195px"
+						background-height="34px"
+						background-url="./images/mail-02/mail_title.jpg"
+						padding="0px 0px">
+						<mj-text
+							padding="0"
+							color="#ffffff"
+							font-family="Foco"
+							align="center"
+							font-size="25px"
+							line-height="45px"
+							font-weight="900">
+							¡HOLA EDINSON!
+						</mj-text>
+						
+						</mj-hero>
+						</mj-body>
+			</mj-column>
+			<mj-column width="35%" padding="0 0" border-top="5px #0098ca solid">
+				<mj-text>&nbsp;</mj-text>
+			</mj-column>
+			</mj-group>
+		</mj-section>
+		<!--content 1-->
+		<mj-section padding="10px 10px">
+			<mj-column padding="0 0">
+				<mj-text font-style="normal"
+                    font-weight="normal"
+                    font-size="15px"
+                    line-height="17px"
+                    color="#404040"
+                    font-family="Helvetica">
+					A partir de ahora formas parte del piloto <strong>Reconocerte</strong> y podras hacer uso de los beneficios y promocioned que tenemos expecialmente para tí</mj-text>
+			</mj-column>
+		</mj-section>
+        <!--content 2-->
+        <mj-section padding="0" background-color="#FFF">
+			<mj-column padding="0 0" width="100%">
+				<mj-image
+					padding="0 0"
+					src="./images/mail-02/mail_steps.jpg"
+					align="center"
+					alt=""
+				/>
+			</mj-column>
+		</mj-section>	
+    </mj-body>
+</mjml>
