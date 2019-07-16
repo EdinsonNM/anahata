@@ -1,25 +1,10 @@
 <mjml>
     <mj-head>
         <mj-title></mj-title>
-      <mj-font name="Foco" href="https://fonts.googleapis.com/css?family=Raleway" />
-      <mj-style>
-      
-      </mj-style>
+      <mj-font name="Foco" href="https://raw.githubusercontent.com/EdinsonNM/anahata/master/styles/foco.css" />
 			<mj-style inline="inline">
-				@font-face {
-					font-family: 'Foco';
-					font-display: block;
-						src: url('../fonts/foco_std_bd-webfont.eot?');
-						src: url('../fonts/foco_std_bd-webfont.eot?putcap#iefix')
-								format('embedded-opentype'),
-							url('../fonts/foco_std_bd-webfont.ttf?putcap') format('truetype'),
-							url('../fonts/foco_std_bd-webfont.woff?putcap') format('woff'),
-							url('../fonts/foco_std_bd-webfont.svg?putcap#alimenta') format('svg');
-						font-weight: normal;
-						font-style: normal;
-					}
 				*, html, body{
-					font-family: Foco;
+					font-family: Foco, Arial;
 					margin:0;
 					padding: 0;
 				}
@@ -46,7 +31,7 @@
         <mj-section
         text-align="left"
         padding="0 0"
-        padding-top="300px"
+        padding-top="260px"
         background-color="#0098ca"
         background-url="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images/banner-05.jpg"
         background-size="cover"
@@ -74,7 +59,6 @@
 						<mj-text
 							padding="0"
 							color="#ffffff"
-							font-family="Foco"
 							align="center"
 							font-size="37px"
 							line-height="45px"
@@ -96,8 +80,7 @@
                     font-weight="normal"
                     font-size="18.5px"
                     line-height="25px"
-                    color="#404040"
-                    font-family="Foco">
+                    color="#404040">
 					A partir de ahora, formas parte del piloto <strong>Reconocerte</strong> y podrás hacer uso de los beneficios y promociones que tenemos especialmente para tí.</mj-text>
 			</mj-column>
 		</mj-section>

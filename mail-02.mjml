@@ -2,20 +2,8 @@
     <mj-head>
         <mj-title></mj-title>
          <mj-style inline="inline">
-            @font-face {
-                font-family: 'Foco';
-                font-display: block;
-                    src: url('../fonts/foco_std_bd-webfont.eot?');
-                    src: url('../fonts/foco_std_bd-webfont.eot?putcap#iefix')
-                            format('embedded-opentype'),
-                        url('../fonts/foco_std_bd-webfont.ttf?putcap') format('truetype'),
-                        url('../fonts/foco_std_bd-webfont.woff?putcap') format('woff'),
-                        url('../fonts/foco_std_bd-webfont.svg?putcap#alimenta') format('svg');
-                    font-weight: normal;
-                    font-style: normal;
-                }
             *, html, body{
-                font-family: Foco;
+                font-family: Foco, Arial;
                 margin:0;
                 padding: 0;
             }
@@ -57,7 +45,7 @@
         background-color="#0098ca"
         >
             <mj-column width="100%" padding="0 0">
-                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px" font-family="Foco">
+                <mj-text height="70px" padding="0px 30px 0 30px" padding-top="25px" color="white" font-size="33px" line-height="35px">
                     ¡Queremos felicitarte por ser  
                  <b> un gran conductor! </b>
                 </mj-text>
@@ -95,14 +83,14 @@
         <!--content-->
         <mj-section padding="0 0" border-left="18px #0098ca solid">
             <mj-group>
-                <mj-column padding="0 0" width="60%">
+                <mj-column padding="0 0" width="100%">
                     <mj-text
                     font-style="normal"
                     font-weight="bold"
                     font-size="38px"
                     line-height="28px"
                     color="#0097CB"
-                    font-family="Foco"
+                    
                     >
                     ¡Hola Natalia!
                     </mj-text>
@@ -112,7 +100,6 @@
                     font-size="19.5px"
                     line-height="25px"
                     color="#404040"
-                    font-family="Helvetica"
                     >
                         <p>
                         Tu prevención y cuidado merecen ser reconocidos,  por eso queremos premiarte con <b>1000 millas LATAM Pass</b>, para que las uses cuando quieras.
@@ -127,17 +114,7 @@
                         </p>
                     </mj-text>
                 </mj-column>
-                <mj-column padding="0 0" width="40%" padding-top="10px">
-                    <mj-image
-                        padding="0 0"
-                        src="https://raw.githubusercontent.com/EdinsonNM/anahata/master/images//mail_cel.jpg"
-                        fluid-on-mobile="true"
-                        align="center"
-                        padding-right="10px"
-                        width="155px"
-                        height="325px"
-                    />
-                </mj-column>
+                
             </mj-group>
         </mj-section>
 
